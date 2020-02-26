@@ -1,6 +1,6 @@
 # 字符检测系统-后端
 
-
+[字符检测系统-前端](https://github.com/khuqen/letters_detect_frontend)
 
 ## 概述
 
